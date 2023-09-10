@@ -9,7 +9,8 @@
 - [Benefits](#benefits)
 - [Conclusion](#conclusion)
 
-<img width="1406" alt="Screenshot 2023-08-28 at 6 57 17 AM" src="https://github.com/Shobhit-Singhh/Public_Healthcare/assets/117563572/7ece8844-256b-4067-afa1-5c1b00c519cc">
+
+https://github.com/Shobhit-Singhh/Public_Healthcare/assets/117563572/a8454a51-3151-4d22-8859-51d714601c6f
 
 
 ## Introduction
@@ -49,6 +50,9 @@ By adopting our data-driven framework for health aid and food subsidy allocation
 - **Chronic Disease Management**: Analysis of health data helps identify regions where dietary interventions can effectively manage chronic conditions like diabetes and hypertension.
 
 - **Emergency Response**: During health crises or disasters, the framework aids in allocating resources efficiently to mitigate impacts on vulnerable populations.
+
+<img width="1406" alt="Screenshot 2023-08-28 at 6 57 17 AM" src="https://github.com/Shobhit-Singhh/Public_Healthcare/assets/117563572/7ece8844-256b-4067-afa1-5c1b00c519cc">
+
 
 ## Conclusion
 
